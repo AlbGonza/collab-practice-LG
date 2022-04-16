@@ -1,0 +1,20 @@
+.navbar {
+    background-color: rgba(245, 92, 150, 0.997);
+    height: 150px;
+}
+
+.bkgrd-blue {
+    background-color: rgb(58, 34, 154);
+    height: 200px;
+    color: lightgrey;
+}
+
+.bkgrd-orange {
+    background-color: rgb(248, 131, 59);
+    color: lightgray;
+}
+
+.footer {
+    background-color:darkcyan;
+    height: 150px;
+}
