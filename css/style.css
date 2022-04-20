@@ -1,3 +1,4 @@
+
 .navbar {
     background-color: rgba(245, 92, 150, 0.997);
     height: 150px;
@@ -17,4 +18,7 @@
 .footer {
     background-color:darkcyan;
     height: 150px;
+}
+.blockquote-footer {
+    color: #ffffff;
 }
